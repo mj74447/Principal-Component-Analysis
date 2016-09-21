@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-mayank here i likr c++ and java.
+mayank here i like c++ and java.
