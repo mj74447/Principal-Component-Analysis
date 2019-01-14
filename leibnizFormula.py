@@ -1,3 +1,4 @@
+#using generators
 def odd():
     x=1
     while True:
